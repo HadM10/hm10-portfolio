@@ -1,0 +1,47 @@
+<section class="colorlib-education" data-section="education">
+    <div class="colorlib-narrow-content">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+                <span class="heading-meta">Education</span>
+                <h2 class="colorlib-heading animate-box">Education</h2>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
+                <div class="fancy-collapse-panel">
+                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                        {% for i in my_data.education %}
+                            <div class="panel panel-default">
+                                <div class="panel-heading" role="tab" id="heading{{ i.position }}">
+                                    <h4 class="panel-title">
+                                        <a data-toggle="collapse" data-parent="#accordion"
+                                           href="#collapse{{ i.position }}"
+                                           aria-expanded="true" aria-controls="collapse{{ i.position }}">
+                                            {{ i.title }}
+                                        </a>
+                                    </h4>
+                                </div>
+
+                                <div id="collapse{{ i.position }}" class="panel-collapse collapse in"
+                                     role="tabpanel" aria-labelledby="heading{{ i.position }}">
+                                     <div class="panel-body">
+                                         <div class="row">
+                                             <div class="col-md-6">
+                                                 <p>{{ i.location }} [{{ i.starting }} - {{ i.ending }}]</p>
+                                             </div>
+
+                                             <div class="col-md-6">
+                                                <p></p>
+                                            </div>
+                                        </div>
+                                     </div>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

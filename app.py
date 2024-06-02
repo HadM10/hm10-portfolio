@@ -13,4 +13,4 @@ def index():
 
 # run application [debug=True if dev mode, False in production mode]
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)

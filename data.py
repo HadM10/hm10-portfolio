@@ -133,7 +133,7 @@ my_data = {
             "Integrated an interactive village map with user authentication, real-time search, and location-based services, enhancing user engagement by 20%.",
             "Optimized app performance, achieving 99.9% Uptime and scalable infrastructure forfuture growth."
         ],
-        "link": "https://www.ansarportal.com"
+        "links": ["https://www.ansarportal.com"]
     },
      {
         "title": "Full Stack Developer (Intern)",
@@ -146,7 +146,7 @@ my_data = {
             "Designed and implemented an E-learning Website using the MERN Stack (React, Express, Node, MongoDB) for private tutor services.",
             "Created a Cinema Booking Website with functionalities for booking movies, selecting dates, times, and seats, managing profiles, and checking out using the MERN Stack (React, Express, Node, MongoDB)."
         ],
-        "link": "No Link"
+        "links": ["No Link"]
     }, 
     {
         "title": "Freelance Full Stack Developer",
@@ -161,9 +161,11 @@ my_data = {
             "Developed a Space Invaders Game using Pygame, demonstrating proficiency in Python and game development principles.",
             "Created a 3D Tank War Game using Unity 3D, showcasing advanced gameplay mechanics and immersive graphics. "
         ],
-        "link": "https://anime-world-hm10.netlify.app/",
-        "link": "https://akatsukishoponline.000webhostapp.com",
-        "link": "https://musicomania.netlify.app"
+        "links": [
+            "https://anime-world-hm10.netlify.app/",
+            "https://akatsukishoponline.000webhostapp.com",
+            "https://musicomania.netlify.app"
+        ]
     }
 ],
 

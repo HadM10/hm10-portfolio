@@ -27,12 +27,14 @@
                                             <li>{{ j }}</li>
                                         {% endfor %}
 
-                                        <li>
-                                            Link to the site:
-                                            <a href="{{ i.link }}" target="_blank">
-                                                {{ i.link.strip('https://') }}
-                                            </a>
-                                        </li>
+                                        {% for link in i.links %}
+                                            <li>
+                                                Link to the site:
+                                                <a href="{{ link }}" target="_blank">
+                                                    {{ link.strip('https://') }}
+                                                </a>
+                                            </li>
+                                        {% endfor %}
                                     </ul>
                                 </div>
                             </div>

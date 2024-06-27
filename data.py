@@ -1,6 +1,6 @@
 my_data = {
     "name": "Hadi",
-    "full_name": "Hadi Youssef Makki",
+    "full_name": "I'm Hadi Youssef Makki",
     "title": "Full Stack Developer/Mobile Developer",
     "slogan": "Let's wave with creativity",
     "cv_pdf": "cv.pdf",
@@ -33,8 +33,9 @@ my_data = {
         }
     ],
     "releases": [
-        "Four Websites [Design, Backend, Frontend]",
+        "5 Websites [Design, Backend, Frontend]",
         "2 Mobile App, one of them on Google Play Store",
+        "Music Player",
         "Tank War Game on Unity",
         "200+ Music Pieces Played"
     ],
@@ -111,25 +112,25 @@ my_data = {
             "title": "Bachelor of Science in Computer Science",
             "location": "Lebanese International University (LIU)",
             "starting": "2020",
-            "ending": "2023"
+            "ending": "2024"
         },
         {
             "position": "Two",
             "title": "Full Stack Developer Diploma from ESIEE IT and ESA Business School",
             "location": "ESA Coding Lab Boot camp",
-            "starting": "2020",
-            "ending": "2021"
+            "starting": "2021",
+            "ending": "2022"
         },
     ],
    "work": [
     {
-        "title": "Co-founder and Lead Developer at Top Coders",
+        "title": "Co-founder, CTO and Lead Developer at Top Coders",
         "starting": "2023",
         "ending": "Present",
         "content": [
             'Developed the Village Guide Mobile App and Website called "Ansar Portal" using Flutter, enabling users to search, like, discover stores, news, offers, and more in the village Ansar.',
         ],
-        "link": "https://Topcoders.com"
+        "link": "https://www.ansarportal.com"
     },
     {
         "title": "Freelance Full Stack Developer",

@@ -9,6 +9,11 @@
     font-style: normal;
 }
 
+@font-face {
+  font-family: 'kuro';
+  src: url('../fonts/Kuro-Regular.otf'),
+}
+
 /* =======================================================
 *
 * 	Template Style 
@@ -17,12 +22,22 @@
 * ======================================================= */
 
 body {
-    font-family: "Quicksand", Arial, sans-serif;
+    font-family: "kuro";
     font-weight: 400;
     font-size: 15px;
     line-height: 1.8;
     color: rgba(0, 0, 0, 0.7);
 }
+
+*{
+  font-family: 'kuro' !important;
+}
+
+@media screen and (min-width: 1280px) {
+  .banner-header{
+   width: 1000px;
+  }
+ }
 
 @media screen and (max-width: 2000px) {
     body {

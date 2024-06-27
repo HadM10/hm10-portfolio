@@ -129,6 +129,9 @@ my_data = {
         "ending": "Present",
         "content": [
             'Developed the Village Guide Mobile App and Website called "Ansar Portal" using Flutter, enabling users to search, like, discover stores, news, offers, and more in the village Ansar.',
+            "Developed and launched 'Ansar Portal' mobile app and website using Flutter, attracting over 100 active users within the first month. Ansar Portal",
+            "Integrated an interactive village map with user authentication, real-time search, and location-based services, enhancing user engagement by 20%.",
+            "Optimized app performance, achieving 99.9% Uptime and scalable infrastructure forfuture growth."
         ],
         "link": "https://www.ansarportal.com"
     },

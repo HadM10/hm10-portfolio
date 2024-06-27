@@ -78,7 +78,7 @@ figure figcaption {
     margin: 20px auto 0px auto;
     color: #b3b3b3;
     font-style: italic;
-    font-family: "Quicksand", Arial, sans-serif;
+    font-family: "kuro";
 }
 
 @media screen and (max-width: 480px) {
@@ -208,7 +208,7 @@ figure figcaption {
   text-decoration: none;
   position: relative;
   padding: 10px 0;
-  font-family: "Quicksand", Arial, sans-serif;
+  font-family: "kuro";
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;

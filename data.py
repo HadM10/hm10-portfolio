@@ -1,6 +1,6 @@
 my_data = {
-    "name": "Hadi",
-    "full_name": "I'm Hadi Youssef Makki",
+    "name": "I'm Hadi",
+    "full_name": "Hadi Youssef Makki",
     "title": "Full Stack Developer/Mobile Developer",
     "slogan": "Let's wave with creativity",
     "cv_pdf": "cv.pdf",

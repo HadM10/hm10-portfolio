@@ -132,6 +132,19 @@ my_data = {
         ],
         "link": "https://www.ansarportal.com"
     },
+     {
+        "title": "Full Stack Developer (Intern)",
+        "starting": "2021",
+        "ending": "2022",
+        "content": [
+            "Designed and implemented a cinema booking platform with integrated payment gateways, resulting in an increase in online bookings.",
+            "Developed an e-library system with user-friendly interfaces, enhancing user experience and increasing library membership by 10%.",
+            "Created a comprehensive course management system, streamlining administrative tasks and improving student engagement.",
+            "Designed and implemented an E-learning Website using the MERN Stack (React, Express, Node, MongoDB) for private tutor services.",
+            "Created a Cinema Booking Website with functionalities for booking movies, selecting dates, times, and seats, managing profiles, and checking out using the MERN Stack (React, Express, Node, MongoDB)."
+        ],
+        "link": "No Link"
+    }, 
     {
         "title": "Freelance Full Stack Developer",
         "starting": "2019",
@@ -140,12 +153,12 @@ my_data = {
             "Created and maintained responsive websites and mobile apps using various technologies.",
             "Developed a fully functional E-commerce website using HTML, CSS, JavaScript, JQuery, PHP, Ajax, and SQL.",
             "Designed and implemented an Anime Website for searching, watching, and managing favorites using HTML, CSS, JQuery, and JavaScript.",
-            "Managed the maintenance of websites upon request and used databases such as PostgreSQL and SQLite.",
+            "Managed the maintenance of websites upon request and used databases such as MySQL and MongoDB.",
             "Utilized Jetbrains tools (Pycharm), GitHub, Heroku, and Azure portal.",
-             "Designed and implemented an E-learning Website using the MERN Stack (React, Express, Node, MongoDB) for private tutor services.",
-            "Created a Cinema Booking Website with functionalities for booking movies, selecting dates, times, and seats, managing profiles, and checking out using the MERN Stack (React, Express, Node, MongoDB)."
+            "Developed a Space Invaders Game using Pygame, demonstrating proficiency in Python and game development principles.",
+            "Created a 3D Tank War Game using Unity 3D, showcasing advanced gameplay mechanics and immersive graphics. "
         ],
-        "link": "https://akatsukishoponline.000webhostapp.com"
+        "link": "https://anime-world-hm10.netlify.app/ | https://akatsukishoponline.000webhostapp.com | https://musicomania.netlify.app/ "
     }
 ],
 

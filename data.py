@@ -161,7 +161,9 @@ my_data = {
             "Developed a Space Invaders Game using Pygame, demonstrating proficiency in Python and game development principles.",
             "Created a 3D Tank War Game using Unity 3D, showcasing advanced gameplay mechanics and immersive graphics. "
         ],
-        "link": "https://anime-world-hm10.netlify.app/ | https://akatsukishoponline.000webhostapp.com | https://musicomania.netlify.app/ "
+        "link": "https://anime-world-hm10.netlify.app/",
+        "link": "https://akatsukishoponline.000webhostapp.com",
+        "link": "https://musicomania.netlify.app"
     }
 ],
 
